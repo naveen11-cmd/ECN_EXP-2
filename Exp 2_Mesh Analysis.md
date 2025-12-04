@@ -1,5 +1,4 @@
 Exp 2.	Experimental determination of currents and voltages in circuits using Mesh analysis
-
 Aim:-
 
 To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit
@@ -15,7 +14,6 @@ SL.NO	APPARATUS	SPECIFICATION	QUANTITY
 CIRCUIT DIAGRAM:
 
 <img width="932" height="613" alt="Screenshot 2025-11-11 091701" src="https://github.com/user-attachments/assets/e5c6a2a3-c803-4dbf-a468-f4a9ab5f4c2e" />
-
 
 PROCEDURE:
 
